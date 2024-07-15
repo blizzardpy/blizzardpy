@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning React<br>🎯 Goals: AI/ML Study<br>🎲 Fun fact: I want to learn new things.</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I've finished university<br>🎯 Goals: Be a beeter Softwaare Engineer<br>🎲 Fun fact: I want to learn new things.</p>
 
 ###
 
