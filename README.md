@@ -16,9 +16,6 @@
 
 <a href="https://www.amirkiankiani.ir">My Portfolio</a>
 
-<a href="info@amirkiankiani.ir">Email to me</a>
-
-
 <h2 align="left">I code with</h2>
 
 ###
