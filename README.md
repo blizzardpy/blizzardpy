@@ -10,11 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I've finished university<br>🎯 Goals: Be a beter Software Engineer<br>🎲 Fun fact: I want to learn new things.</p>
+<p align="left">✨Creating bugs since 2015<br>📚Master of Science in Software Engineering<br>🎯Goal: Be a beter Software Engineer</p>
 
 ###
 
 <a href="https://www.amirkiankiani.ir">My Portfolio</a>
+
+<a href="info@amirkiankiani.ir">Email to me</a>
+
 
 <h2 align="left">I code with</h2>
 
