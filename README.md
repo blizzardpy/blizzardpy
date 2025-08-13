@@ -1,94 +1,108 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# 👋 Hello, I'm Amirkian Kiani
 
-<p align="left">My name is Amirkian and I'm a Back-end Developer, from Tehran</p>
+### Senior Software Engineer | MSc in Software Engineering | Tech Enthusiast
 
-###
+*Crafting robust, scalable solutions since 2015*
 
-<h2 align="left">About me</h2>
+[![Portfolio](https://img.shields.io/badge/Portfolio-amirkiankiani.ir-blue?style=for-the-badge&logo=firefox)](https://www.amirkiankiani.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirkian-kiani)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:amirkiankiani@icloud.com)
 
-###
-
-<p align="left">✨Creating bugs since 2015<br>📚Master of Science in Software Engineering<br>🎯Goal: Be a beter Software Engineer</p>
-
-###
-
-<a href="https://www.amirkiankiani.ir">My Portfolio</a>
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-plain.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-plain.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-plain.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/k3s/k3s-original.svg" height="40" alt="k3s logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<!--   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
 </div>
 
-###
-<p dir="auto"><a href="https://www.buymeacoffee.com/amirkiankiani" rel="nofollow"><img src="https://camo.githubusercontent.com/3ba8042b343d12b84b85d2e6563376af4150f9cd09e72428349c1656083c8b5a/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67" alt="Buy Me A Coffee" style="height: 51px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/default-orange.png"></a></p>
+---
+
+## 🚀 About Me
+
+```typescript
+const amirkian = {
+  title: "Senior Software Engineer",
+  location: "Tehran, Iran",
+  education: "MSc in Software Engineering",
+  experience: "9+ years",
+  focus: ["Backend Development", "System Architecture", "DevOps"],
+  currentGoal: "Building scalable distributed systems"
+};
+```
+
+- 🎯 **Mission**: Creating efficient, maintainable software solutions
+- 🌱 **Currently**: Exploring microservices architecture and cloud-native technologies
+- 💡 **Passion**: Solving complex problems with elegant code
+- ⚡ **Fun fact**: I debug faster with coffee ☕
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### **Backend & APIs**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Data Science & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blizzardpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blizzardpy&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 💼 Professional Highlights
+
+- 🏗️ **Architecture**: Designed and implemented scalable microservices architectures
+- 🚀 **Performance**: Optimized system performance by 40% through efficient algorithms
+- 👥 **Leadership**: Led development teams of 5+ engineers on multiple projects
+- 🔒 **Security**: Implemented robust security measures and best practices
+- 📈 **Growth**: Mentored junior developers and contributed to team growth
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amirkiankiani)
+
+*"Code is poetry written in logic"*
+
+⭐ **Star my repositories if you find them useful!**
+
+</div>
